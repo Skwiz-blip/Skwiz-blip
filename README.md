@@ -1,16 +1,63 @@
-## Hi there 👋
+# 👋 Salut, moi c'est Louis
 
-<!--
-**Skwiz-blip/Skwiz-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Développeur Full-Stack • IA • Big Data • Mobile
 
-Here are some ideas to get you started:
+Je développe des solutions intelligentes combinant :
+- IA
+- Big Data
+- Mobile
+- Cloud
+- Systèmes intelligents
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Domaines
+
+- Machine Learning
+- NLP
+- Recommendation Systems
+- Flutter
+- Supabase
+- Firebase
+- Kafka & Spark
+- Cybersecurity
+
+---
+
+## 📱 Projets
+
+### 🚚 Kolisa
+Plateforme de livraison intelligente inspirée d'Uber.
+
+### 🌾 AgriConnect Togo
+Marketplace agricole intelligente.
+
+### 💳 ScanPay
+Paiement mobile par QR code.
+
+### 🎯 Wakabi AI
+Système de recommandation intelligent.
+
+---
+
+## ⚡ Tech Stack
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=tokyonight)
+
+---
+
+## 🌍 Contact
+
+- LinkedIn
+- Portfolio
+- Email
