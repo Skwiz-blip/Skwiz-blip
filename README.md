@@ -106,19 +106,7 @@ Marketplace agricole intelligente connectant agriculteurs, acheteurs et services
 - World Models
 - Agents IA autonomes
 
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TON_USERNAME&theme=tokyonight" />
-</p>
-
----
+--- 
 
 # 🌍 Objectif
 
