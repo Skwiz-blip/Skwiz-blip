@@ -14,9 +14,9 @@ Développeur Full-Stack • IA • Big Data • Mobile • Systèmes Intelligent
 - 🌍 Intéressé par les technologies à fort impact en Afrique 
 
 
-# ⚡ Stack Technique
+# Stack Technique
 
-## 👨‍💻 Langages
+## Langages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,dart" />
@@ -24,7 +24,7 @@ Développeur Full-Stack • IA • Big Data • Mobile • Systèmes Intelligent
 
 ---
 
-## 🎨 Frontend & Mobile
+## Frontend & Mobile
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,flutter" />
@@ -32,7 +32,7 @@ Développeur Full-Stack • IA • Big Data • Mobile • Systèmes Intelligent
 
 ---
 
-## 🛠️ Backend & APIs
+## Backend & APIs
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,fastapi,laravel,firebase,supabase" />
@@ -40,7 +40,7 @@ Développeur Full-Stack • IA • Big Data • Mobile • Systèmes Intelligent
 
 ---
 
-## 🧠 IA & Data Science
+## IA & Data Science
 
 <p>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
@@ -56,7 +56,7 @@ Développeur Full-Stack • IA • Big Data • Mobile • Systèmes Intelligent
 
 ---
 
-# 🗄️ Bases de données
+# Bases de données
 
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis" />
@@ -64,18 +64,15 @@ Développeur Full-Stack • IA • Big Data • Mobile • Systèmes Intelligent
 
 ---
 
-# ☁️ Cloud & DevOps
+# Cloud & DevOps
 
 <p>
 <img src="https://skillicons.dev/icons?i=docker,aws" />
 </p>
 
---
-
-# 📫 Contact
-
-- https://github.com/Skwiz-blip
-- https://portfolio-iota-woad-50.vercel.app/
+-
+ 
+- https://me.yocliver.com
 - louisskwiz@gmail.com
 
 ---
